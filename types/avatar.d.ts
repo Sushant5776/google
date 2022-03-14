@@ -1,0 +1,3 @@
+interface AvatarProps {
+  imageURL: string
+}
